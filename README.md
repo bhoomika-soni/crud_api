@@ -20,7 +20,7 @@ A simple REST API built using Node.js and Express.js to manage to-do tasks. It s
 2. Navigate to the project directory:
 
    ```bash
-   cd todo-crud-api
+   cd "CRUD API"
    ```
 
 3. Install dependencies:
